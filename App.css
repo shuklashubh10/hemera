@@ -1,0 +1,48 @@
+*{
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.howItContainer{
+  background-color: #88E288;
+  margin-bottom:5vh;
+}
+.containerkaconatiner{
+margin-bottom :7vh;
+}
+.HowitworksHeading{
+  color:#13235C;
+  margin-left: 85vh;
+}
+.bulletpoints{
+  margin-top:3vh;
+  margin-left:23vh;
+}
+
+.flex-container {
+  margin-left:25vh;
+  display: flex;
+  margin-right:25vh;
+}
+
+.flex-child {
+  flex: 1;
+  border: 1vh solid #4DB64D;
+  background-color: #CEFFCE;
+   
+ 
+}  
+
+.flex-child:first-child {
+  margin-right: 5vh;
+} 
+
+.magenta {
+  height: 50vh;
+}
+
+.Flex-child-heading{
+  color:#13235C;
+  font-size: 3.1vh;
+}
